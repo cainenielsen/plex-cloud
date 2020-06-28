@@ -24,7 +24,7 @@ Google Cloud Run automatically scales containers to accomedate for traffic, this
 See Google Cloud Storage
 https://cloud.google.com/storage
 
-The media server will be looking for files withing loaded media folders on the machine, the files include photos, videos, and more.
+The media server will be looking for files within selected media folders on the machine, the files include photos, videos, and more.
 
 Note: Cloud Storage is "Object Storage" and by default cannot be accessed as a network mapped drive.
 
