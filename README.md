@@ -37,7 +37,7 @@ Note: FUSE is a Google library, but is open source.
 
 # Steps
 
-## Google Cloud PLatform
+## Google Cloud Platform
 
 1. Navigate to the Google Cloud Platform Console.
 https://console.cloud.google.com/
