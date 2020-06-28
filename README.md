@@ -31,7 +31,7 @@ Note: Cloud Storage is "Object Storage" and by default cannot be accessed as a n
 See Google Cloud Storage FUSE 
 https://cloud.google.com/storage/docs/gcs-fuse
 
-The bring object storage from Google Cloud Storage into the Plex Media Server, we will need to use FUSE to create a file system service that we can then connect to from within the Cloud Run container.
+To bring object storage from Google Cloud Storage into the Plex Media Server, we will need to use FUSE to create a file system service that we can then connect to from within the Cloud Run container.
 
 Note: FUSE is a Google library, but is open source.
 
