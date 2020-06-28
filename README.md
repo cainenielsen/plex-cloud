@@ -55,6 +55,10 @@ gcloud init
 5. Check which project you have selected.
 gcloud config get-value project
 
+6. Install Google Cloud Docker Auth Helpers
+gcloud auth configure-docker
+gcloud components install docker-credential-gcr
+
 ## Plex Media Server Container Images
 See more details here: https://hub.docker.com/r/linuxserver/plex
 
